@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Web Development/ Windows Application Development**
 
-- 📫 How to reach me **kalanasilva0101@gmail.com**
+- 📫 How to reach me **anushkadezilva@gmail.com**
 
 </td>
 <td width="50%" align="center">
