@@ -12,15 +12,15 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning Advanced Full Stack Development & System Design (React, Node.js, Cloud Deployment)**
+- 🌱 I’m currently learning Advanced Full Stack Development & System Design (React, Node.js, Cloud Deployment)
 
-- 💬 Ask me about Full Stack Web Development (React, Next.js, Node.js, PostgreSQL), REST APIs, and VPS Deployment**
+- 💬 Ask me about Full Stack Web Development (React, Next.js, Node.js, PostgreSQL), REST APIs, and VPS Deployment
 
 - 📫 How to reach me **anushkadezilva@gmail.com**
 
-- 🌐 Portfolio: https://portfolio-1-0-eight.vercel.app/**
+- 🌐 Portfolio: https://portfolio-1-0-eight.vercel.app/
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/iamdkdesilva/**
+- 🔗 LinkedIn: https://www.linkedin.com/in/iamdkdesilva/
 
 </td>
 <td width="50%" align="center">
