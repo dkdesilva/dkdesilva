@@ -4,7 +4,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=FFFFFF&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Kalana+De+Silva!" alt="Kalana De Silva" /></a>
 </h1>
-<h3 align="center">Passionate Web & Mobile Application Developer & Designer | Postman Student Expert | Front-End Developer | Fullstack Developer | Undergraduate Software Engineer</h3>
+<h3 align="center">Full Stack Software Engineer | React & Next.js Developer | Node.js & PostgreSQL Enthusiast | REST API Developer | VPS Deployment Experience </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dkdesilva&label=Profile%20views&color=0e75b6&style=flat" alt="dkdesilva" /> </p>
 <p align="center"><img src="https://img.shields.io/github/followers/dkdesilva?style=social" alt="dkdesilva" /></p>
 
@@ -12,13 +12,15 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Java & Android Application Development**
+- 🌱 I’m currently learning Advanced Full Stack Development & System Design (React, Node.js, Cloud Deployment)**
 
-- 🧑‍🎓 I’m an Undergraduate at **NIBM**
-
-- 💬 Ask me about **Web Development/ Windows Application Development**
+- 💬 Ask me about Full Stack Web Development (React, Next.js, Node.js, PostgreSQL), REST APIs, and VPS Deployment**
 
 - 📫 How to reach me **anushkadezilva@gmail.com**
+
+- 🌐 Portfolio: https://portfolio-1-0-eight.vercel.app/**
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/iamdkdesilva/**
 
 </td>
 <td width="50%" align="center">
